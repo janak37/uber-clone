@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# uber-clone
+
+An Expo + React Native starter project scaffolded from `create-expo-app`. This repository contains a small Uber-style UI template built with Expo Router, TypeScript, and native-friendly components — a starting point for experimenting with navigation, theming, and platform-specific behaviors.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
